@@ -1,4 +1,8 @@
+# Local stuff
 ignore/
 python-practice-problems/
+venv/
+__pycache__/
 *.zip
 *.pdf
+pyrightconfig.json
