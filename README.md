@@ -10,7 +10,7 @@ python -m venv venv
 Activate the virtual environment, then run `pip install -r requirements.txt` to install the dependencies.
 
 ## Data collection
-Our dataset can be found [here]().
+Our dataset can be found [here](https://drive.google.com/drive/folders/1pAoRBzDp_FkVgdMPweaNPEXSmBU3fmOD?usp=sharing).
 
 ## Our teams
 | ID | Name | Github |
